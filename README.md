@@ -1,5 +1,5 @@
 # COVID-19 Data Exploration and Analysis
-This project is focused on analysing adn trying to get some insights from the COVID-19 dataset.<br>
+This project is focused on analysing and trying to get some insights from the COVID-19 dataset.<br>
 The data used to explore in this project can be found [here](https://ourworldindata.org/covid-deaths).
 
 ![Dashboard built with Tableau](https://github.com/HenriqueCastros/COVID19-Analysis/blob/main/resources/DashBoard_FrontPage.png?raw=true)
