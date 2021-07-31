@@ -4,6 +4,8 @@ The data used to explore in this project can be found [here](https://ourworldind
 
 ![Dashboard built with Tableau](https://github.com/HenriqueCastros/COVID19-Analysis/blob/main/resources/DashBoard_FrontPage.png?raw=true)
 
+> Dash board built with Tableau available [here](https://public.tableau.com/views/COVID19Analysis_16277580390360/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link).
+
 ### Features to be developed
 This project is still in development, there are upcoming updates still to be released. Following are the tasks I plan to implent:
 
