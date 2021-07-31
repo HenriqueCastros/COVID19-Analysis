@@ -20,7 +20,7 @@ This project is still in development, there are upcoming updates still to be rel
 Before we begin, you will need a few tools, such as:
 
 - Python, with Pandas, Matplotlib and Scikit-learn installed.
-- A data manage database management system of your choice.
+- A database management system of your choice.
 
 ### Installing the dataset
 In order to export this data to a SQL database, we will firstly download the dataset, do some basic reformatting and then continue to the exploration.<br>
