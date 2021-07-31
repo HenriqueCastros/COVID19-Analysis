@@ -2,6 +2,7 @@
 This project is focused on analysing adn trying to get some insights from the COVID-19 dataset.<br>
 The data used to explore in this project can be found [here](https://ourworldindata.org/covid-deaths).
 
+![Dashboard built with Tableau](https://github.com/henriquecastros/COVID19-Analysis/blob/main/DashBoard_FrontPage.jpg?raw=true)
 
 ### Features to be developed
 This project is still in development, there are upcoming updates still to be released. Following are the tasks I plan to implent:
@@ -10,7 +11,7 @@ This project is still in development, there are upcoming updates still to be rel
 - [ ] Data cleaning with SQL.
 - [ ] Data exploration with Pyhton.
 - [ ] Data cleaning with Python.
-- [ ] Build Dashboards with Power BI or Tableau.
+- [x] Build Dashboards with Tableau.
 
 ### Prerequisites
 
@@ -18,7 +19,6 @@ Before we begin, you will need a few tools, such as:
 
 - Python, with Pandas, Matplotlib and Scikit-learn installed.
 - A data manage database management system of your choice.
-- (_Still to be decided but probably..._) Power BI Desktop _or Tableau Public_ installed.
 
 ### Installing the dataset
 In order to export this data to a SQL database, we will firstly download the dataset, do some basic reformatting and then continue to the exploration.<br>
