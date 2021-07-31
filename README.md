@@ -34,3 +34,6 @@ _**IMPORTANT**: Depending on the DBMS you are using, the file type might be rele
 6. Save as 'CovidVaccinations'
 7. Import both datasets to SQL with your DBMS.
 
+### Credits
+This project was inpired from a series of tutorials, developed by [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg). Please check his YouTube channel. I highly recommend.
+
