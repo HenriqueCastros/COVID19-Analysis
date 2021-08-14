@@ -10,9 +10,7 @@ The data used to explore in this project can be found [here](https://ourworldind
 This project is still in development, there are upcoming updates still to be released. Following are the tasks I plan to implent:
 
 - [x] Data exploration with SQL.
-- [ ] Data cleaning with SQL.
-- [ ] Data exploration with Pyhton.
-- [ ] Data cleaning with Python.
+- [x] Data cleaning with SQL.
 - [x] Build Dashboards with Tableau.
 
 ### Prerequisites
