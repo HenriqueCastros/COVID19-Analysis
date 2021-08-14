@@ -2,7 +2,7 @@
 This project is focused on analysing and trying to get some insights from the COVID-19 dataset.<br>
 The data used to explore in this project can be found [here](https://ourworldindata.org/covid-deaths).
 
-![Dashboard built with Tableau](https://github.com/HenriqueCastros/COVID19-Analysis/blob/main/CovidAnalysis/resources/DashBoard_FrontPage.png?raw=true)
+![Dashboard built with Tableau](https://github.com/HenriqueCastros/COVID19-Analysis/blob/main/resources/DashBoard_FrontPage.png?raw=true)
 
 > Dash board built with Tableau available [here](https://public.tableau.com/views/COVID19Analysis_16277580390360/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link).
 
