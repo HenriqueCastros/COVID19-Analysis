@@ -7,7 +7,7 @@ The data used to explore in this project can be found [here](https://ourworldind
 > Dash board built with Tableau available [here](https://public.tableau.com/views/COVID19Analysis_16277580390360/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link).
 
 ### Features to be developed
-This project is still in development, there are upcoming updates still to be released. Following are the tasks I plan to implent:
+This project is complete. The tasks implemented were:
 
 - [x] Data exploration with SQL.
 - [x] Data cleaning with SQL.

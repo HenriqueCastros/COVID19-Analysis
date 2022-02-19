@@ -7,7 +7,7 @@ The data used to explore in this project can be found [here](https://github.com/
 > Some of the data viz built in with the python code.
 
 ### Features to be developed
-This project is still in development, there are upcoming updates still to be released. Following are the tasks I plan to implent:
+This project is complete. The tasks implemented were:
 
 - [x] Data exploration with Python.
 - [x] Data cleaning with Python.
